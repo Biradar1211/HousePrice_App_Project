@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+fastapi
+joblib
+pymongo
+mlflow
+pandas
+uvicorn
